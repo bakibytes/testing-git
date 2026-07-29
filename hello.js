@@ -9,4 +9,6 @@ function mul(a, b) {
 }
 
 mul(8, 9);
+mul(8, 90);
+
 
